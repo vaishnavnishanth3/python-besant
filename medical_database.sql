@@ -1,1 +1,0 @@
-SELECT * FROM covid_data.medical_database;
